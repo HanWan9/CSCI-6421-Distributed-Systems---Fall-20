@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edb03d82-2b67-4ec6-8d23-5cbf3e05a49c" name="Default Changelist" comment="Initial commit&#10;create project 1- Parallel Sum: phrase 1: Sequential Sum" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Han Wang &lt;53606180+hanwan9@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h47dRoueCud14knWJS7CjKkCKG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go" />
+  </component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edb03d82-2b67-4ec6-8d23-5cbf3e05a49c" name="Default Changelist" comment="" />
+      <created>1599258598327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599258598327</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;create project 1- Parallel Sum: phrase 1: Sequential Sum">
+      <created>1599272881457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599272881457</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit&#10;create project 1- Parallel Sum: phrase 1: Sequential Sum">
+      <created>1599273161171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599273161171</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create project 1- Parallel Sum: phrase 1: Sequential Sum" />
+    <MESSAGE value="Initial commit&#10;create project 1- Parallel Sum: phrase 1: Sequential Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;create project 1- Parallel Sum: phrase 1: Sequential Sum" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="178" key="#GOPATH" timestamp="1599259248181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="178" key="#GOPATH/0.0.1920.1040@0.0.1920.1040" timestamp="1599259248181" />
+    <state x="691" y="343" key="#Notifications" timestamp="1599259503137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1599259503137" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599273232855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599273232855" />
+    <state x="360" y="120" width="1200" height="800" key="DiffContextDialog" timestamp="1599273250776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="360" y="120" width="1200" height="800" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599273250776" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1599259245768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599259245768" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1599259553454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599259553454" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599273178021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599273178021" />
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599273242599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599273242599" />
+    <state x="655" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599259582208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599259582208" />
+  </component>
+</project>
